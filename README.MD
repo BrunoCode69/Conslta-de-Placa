@@ -13,4 +13,5 @@ node index.js
 ```
 
 # Construido com:
-[Rompot](https://github.com/laxeder/rompot)
+[Rompot](https://github.com/laxeder/rompot) Package usada para conectar o client ao whatsapp.
+[QuickDB](https://github.com/plexidev/quick.db) Banco de dados.
